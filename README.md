@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**dortegaoh/dortegaoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏢 Currently at @ [Roams](https://roams.es/) since 2015<br>
+🤓 CTO<br>
+⚡ Fun fact: Yes, I'm a space geek 🔭
 
-Here are some ideas to get you started:
+## Who am I? 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm David, a Bachelor of Telecommunications Science / CTO with more than 5 years of experience.<br>
+
+Right now I'm working at @ [Roams](https://roams.com/), currently developing company tech strategy and defining tech stack.<br>
+
+## Get in touch 🤝
+
+🐦 Twitter: [twitter.com](https://twitter.com/yosoyDOL)<br>
+🌐 Linkedin: [linkedin](https://www.linkedin.com/in/david-ortega-lora/)<br>
+🗺️ Location: Palencia, Spain
